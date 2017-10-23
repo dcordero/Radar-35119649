@@ -1,4 +1,4 @@
-# radar-
+# Wrong text color in AVPlayerViewController tabs after minimizing
 
 Project created to report bug on AVPlayerViewController
 
@@ -23,6 +23,7 @@ This repo contains a very simple xcode project reproducing the issue. It is a ve
 
 At this point the tabs text color turned black
 
-# Version
+# Version and Configuration
 
+Using Dark style
 tvOS 11.0 (15J380)
