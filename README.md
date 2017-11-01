@@ -31,4 +31,4 @@ At this point the tabs text color turned black
 - tvOS 11.0 (15J380)
 
 Also reproducible in latest beta: 
-tvOS 11.1 beta 5 (15J5582a)
+tvOS 11.2 (15K5085b)
