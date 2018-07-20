@@ -1,3 +1,5 @@
+# ⚠️ Update: This bug was fixed in tvOS 12.0 Beta 4
+
 # Wrong text color in AVPlayerViewController tabs after minimizing
 
 Project created to report bug on AVPlayerViewController
